@@ -1,0 +1,64 @@
+.legend {
+    position: absolute;
+    bottom: 30px;
+    left: 10px;
+    padding: 17px;
+    width: 200px;
+    background: #fff;
+}
+
+.legend-row {
+    display: flex;
+    /*justify-content: space-between;*/
+    align-items: baseline;
+    margin-bottom: 5px;
+    /*padding: 10px;*/
+}
+
+.legend-row-color {
+    margin-right: 10px;
+    width: 10px;
+    height: 10px;
+    background-color: red;
+}
+
+.legend-title {
+    margin-bottom: 5px;
+}
+
+.white {
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.blue {
+    background-color: rgb(0, 0, 255);
+}
+
+.purple {
+    background-color: rgb(128, 0, 255);
+}
+
+.black {
+    background-color: black;
+}
+
+.green {
+    background-color: green;
+}
+
+.lime {
+    background-color: lime;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.yellow {
+    background-color: yellow;
+}

@@ -1,0 +1,9 @@
+.label-wrapper {
+    margin-bottom: 5px;
+}
+.label-wrapper label{
+    cursor: pointer;
+}
+.label-wrapper input {
+    margin-right: 10px;
+}
